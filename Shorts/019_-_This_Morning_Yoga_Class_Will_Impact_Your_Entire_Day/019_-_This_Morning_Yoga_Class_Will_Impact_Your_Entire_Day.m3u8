@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.010000,
+019_-_This_Morning_Yoga_Class_Will_Impact_Your_Entire_Day0.ts
+#EXTINF:10.010000,
+019_-_This_Morning_Yoga_Class_Will_Impact_Your_Entire_Day1.ts
+#EXTINF:3.670578,
+019_-_This_Morning_Yoga_Class_Will_Impact_Your_Entire_Day2.ts
+#EXT-X-ENDLIST

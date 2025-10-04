@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.133333,
+024_-_How_we_built_Boho_Beautiful_from_Nothing0.ts
+#EXTINF:10.133333,
+024_-_How_we_built_Boho_Beautiful_from_Nothing1.ts
+#EXTINF:10.133333,
+024_-_How_we_built_Boho_Beautiful_from_Nothing2.ts
+#EXTINF:7.200000,
+024_-_How_we_built_Boho_Beautiful_from_Nothing3.ts
+#EXT-X-ENDLIST

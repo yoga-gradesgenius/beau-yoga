@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:13.096422,
+003_-_An_Easy_Vegan_Snack_You_Can_Make_In_Five_Minutes_Iguana_Verde_Toast0.ts
+#EXTINF:10.343667,
+003_-_An_Easy_Vegan_Snack_You_Can_Make_In_Five_Minutes_Iguana_Verde_Toast1.ts
+#EXTINF:6.756744,
+003_-_An_Easy_Vegan_Snack_You_Can_Make_In_Five_Minutes_Iguana_Verde_Toast2.ts
+#EXTINF:11.886878,
+003_-_An_Easy_Vegan_Snack_You_Can_Make_In_Five_Minutes_Iguana_Verde_Toast3.ts
+#EXTINF:9.509500,
+003_-_An_Easy_Vegan_Snack_You_Can_Make_In_Five_Minutes_Iguana_Verde_Toast4.ts
+#EXTINF:7.424578,
+003_-_An_Easy_Vegan_Snack_You_Can_Make_In_Five_Minutes_Iguana_Verde_Toast5.ts
+#EXT-X-ENDLIST

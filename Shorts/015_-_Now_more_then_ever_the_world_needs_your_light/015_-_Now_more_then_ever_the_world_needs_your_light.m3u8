@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.133333,
+015_-_Now_more_then_ever_the_world_needs_your_light0.ts
+#EXTINF:10.133333,
+015_-_Now_more_then_ever_the_world_needs_your_light1.ts
+#EXTINF:10.133333,
+015_-_Now_more_then_ever_the_world_needs_your_light2.ts
+#EXTINF:10.133333,
+015_-_Now_more_then_ever_the_world_needs_your_light3.ts
+#EXTINF:10.133333,
+015_-_Now_more_then_ever_the_world_needs_your_light4.ts
+#EXTINF:8.666667,
+015_-_Now_more_then_ever_the_world_needs_your_light5.ts
+#EXT-X-ENDLIST
