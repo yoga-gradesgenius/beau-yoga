@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:11.302967,
+001_-_Boho_Beautiful_Transform_Premium_Program0.ts
+#EXTINF:9.009000,
+001_-_Boho_Beautiful_Transform_Premium_Program1.ts
+#EXTINF:9.759744,
+001_-_Boho_Beautiful_Transform_Premium_Program2.ts
+#EXTINF:10.218544,
+001_-_Boho_Beautiful_Transform_Premium_Program3.ts
+#EXTINF:12.053711,
+001_-_Boho_Beautiful_Transform_Premium_Program4.ts
+#EXTINF:7.589400,
+001_-_Boho_Beautiful_Transform_Premium_Program5.ts
+#EXT-X-ENDLIST
